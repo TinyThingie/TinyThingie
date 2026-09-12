@@ -3,13 +3,12 @@
   ꒷︶꒷ ![Profile Views](https://komarev.com/ghpvc/?username=TinyThingie&label=Eyes+++&color=60318a) ꒥꒷︶˚ 
  <div id="header" align="center">
    
- <div id="header" align="center">
-<img src="https://media.tenor.com/6XBKSmjpMUYAAAAM/cat-divider.gif" width="400" height="50"/>
-</div>  
+ <div id="header" align="center">  
 
 <img src="https://media.tenor.com/XWAX8giiZEwAAAAM/blue.gif" width="600" height="300"/>
 </div>
-
+<img src="https://media.tenor.com/6XBKSmjpMUYAAAAM/cat-divider.gif" width="400" height="50"/>
+</div>
 <p>
 <details>
   <summary>𝐃𝐍𝚰</summary>

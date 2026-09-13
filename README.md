@@ -38,7 +38,37 @@ I have a hard time opening up or connecting with people. Do not fret if I do not
   ### 
   
    
-   - and more, Just ask. Usually in skins of things I enjoy.
+   - Pokemon
+   - Digimon
+   - Palworld
+   - Aniimo
+   - Roblox (since I was lil)
+   - Warrior cats
+   - My little pony
+   - Warhammer 40k
+   - Marvel & DC 
+   - Hollow Knight/Silk song
+   - Baldur Gate 3
+   - Warframe
+   - Dinosaur stuff
+   - Welcome home
+   - Walten Files
+   - Cult of the Lamb
+   - Stardew Valley
+   - Wordgirl
+   - Anime Castlevania
+   - Don't starve
+   - Binding of Issac
+   - Furry
+   - Fallout 4
+   - Skyrim
+   - Avowed
+   - Avatar the last Airbender
+   - Avatar (blue people)
+   - Assassin's Creed (Ezio)
+   - Gears of War
+   - Halo
+   -  and more, Just ask. Usually in skins of things I enjoy.
  </details>
 
 

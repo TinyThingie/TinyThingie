@@ -11,7 +11,7 @@
 <div align="center">
 <div style="margin:4px 0;">
 <a href="https://tinythingie.carrd.co/">CARRD</a> ֶ࣪ᯓ𑣲  <a href="https://tinyecho.straw.page. ">My Strawpage.</a>  ֶ࣪ᯓ𑣲 <a href="https://tinyecho.atabook.org. ">SIGN ATA!</a> 
-
+<div id="header" align="center">
 <img src="https://media.tenor.com/6XBKSmjpMUYAAAAM/cat-divider.gif" width="400" height="50"/>
 </div>
 <p>

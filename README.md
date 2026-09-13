@@ -10,7 +10,7 @@
 
 <div align="center">
 <div style="margin:4px 0;">
-<a href="https://tinythingie.carrd.co/">CARRD</a> ֶ࣪ᯓ𑣲  <a href="https://tinyecho.straw.page. ">My Strawpage.</a> ᯓ𑣲 <a href="https://tinyecho.atabook.org. ">SIGN ATA!</a> 
+<a href="https://tinythingie.carrd.co/">CARRD</a> ֶ࣪ᯓ𑣲  <a href="https://tinyecho.straw.page. ">My Strawpage.</a>  ֶ࣪ᯓ𑣲 <a href="https://tinyecho.atabook.org. ">SIGN ATA!</a> 
 
 <img src="https://media.tenor.com/6XBKSmjpMUYAAAAM/cat-divider.gif" width="400" height="50"/>
 </div>
@@ -40,6 +40,6 @@ I have a hard time opening up or connecting with people. Do not fret if I do not
    
    - and more, Just ask. Usually in skins of things I enjoy.
  </details>
-```
+
 
 
